@@ -1,1 +1,1 @@
-# Hands on Labs for Docker Course at DEPI Initiative
+# Hands-on labs for the Docker course at the DEPI Initiative.
